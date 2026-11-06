@@ -1,16 +1,60 @@
-# React + Vite
+# Jamilu Abubakar | React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal portfolio built with React.js to showcase my skills, projects, experience, and services as a Software Developer.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am a Certified Software Developer and Founder of Jamil Global Tech, based in FCT-Abuja, Nigeria. I build modern websites, web applications, and digital solutions for businesses.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design for desktop, tablet, and mobile.
+- Reusable React components.
+- Multi-page navigation with React Router.
+- Projects section managed with React state.
+- Contact form with basic validation.
+- Dark and light mode toggle.
+- Modern and user-friendly interface.
 
-## Expanding the Oxlint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Vite
+
+## Getting Started
+
+Clone the repository:
+
+    git clone https://github.com/JamilGlobalTech/react-portfolio.git
+
+Install dependencies:
+
+    npm install
+
+Start the development server:
+
+    npm run dev
+
+Build for production:
+
+    npm run build
+
+## Contact
+
+- Email: jamilglobaltech@gmail.com
+- WhatsApp: +2348160243014
+- LinkedIn: https://linkedin.com/in/jamiluabubakar
+- GitHub: https://github.com/jamilglobaltech
+- Website: https://jamilglobaltech.com
+
+## Developer
+
+**Jamilu Abubakar**  
+Founder & Software Developer  
+**Jamil Global Tech**
+
+Business Websites, Software & Digital Solutions.
